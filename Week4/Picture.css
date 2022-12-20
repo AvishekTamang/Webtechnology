@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(201, 199, 83);
+}
+h1{
+    font-size: 80px;
+    color: blueviolet;
+}
+h2{
+    color: rgb(231, 68, 68);
+}
+img{
+    width: 600px;
+    height: 800px;
+    border-radius: 50%;
+
+}
